@@ -27,7 +27,7 @@ const getGenres = async () => {
 };
 
 /*------------------------------------
- Get Movie
+ Get Movi
  ------------------------------------*/
 const getMovies = async () => {
   const selectedGenre = getSelectedGenre();
