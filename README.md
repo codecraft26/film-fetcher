@@ -1,6 +1,6 @@
 # film-fetcher
 a web app that fetch all the movie according to genere.
-#Technical Jorgan
+## Technical Jorgan
 -Html 
 -css 
 -vanilla java script
