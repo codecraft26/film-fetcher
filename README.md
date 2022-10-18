@@ -1,8 +1,9 @@
 # film-fetcher
-a web app that fetch all the movie according to genere.
+A web app that fetches all the movies for a specific genere.
+
 ## Technical Jorgan
--Html 
--css 
--vanilla java script
--npm node-fetcher
--Imbd Api
+- HTML 
+- CSS 
+- Vanilla JS
+- https://github.com/node-fetch/node-fetch
+- IMDB API
