@@ -6,4 +6,5 @@ A web app that fetches all the movies for a specific genere.
 - CSS 
 - Vanilla JS
 - https://github.com/node-fetch/node-fetch
+
 - IMDB API
